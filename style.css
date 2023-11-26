@@ -1,0 +1,47 @@
+* {
+	font-size: 15px;
+	color: black;
+}
+
+body {
+	background-image: url("IMG_0659.jpeg");
+	background-size: 100%;
+	background-repeat: vertical;
+}
+
+h1 {
+	color: #7a4a00;
+	font-size: 27px;
+}
+
+#title {
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #99651580;
+	border-radius: 15px;
+}
+
+#reason {
+	background-color: #99651580;
+	border-radius: 15px;
+	font-family: arial;
+}
+
+#shop {
+	background-color: #99651580;
+	border-radius: 15px;
+	font-family: arial;
+}
+
+#media {
+  background-color: #99651580;
+  border-radius: 15px;
+  font-family: arial;
+  text-align: center;
+}
+
+#form {
+      background-color: #99651580;
+      border-radius: 15px;
+      font-family: arial;
+}
