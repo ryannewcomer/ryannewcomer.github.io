@@ -1,0 +1,15 @@
+body {
+  font-family: trebuchet ms, sans-serif;
+}
+ img {width: 150px;}
+ button{border-radius: 16px;
+   border:none;
+   padding: 15px 14px;
+   text-align: center;
+   margin: 4px;
+   opacity: 0.6;
+   transition: 0.4s;
+   display: inline-block;
+   text-decoration: none;
+   cursor: pointer;
+ }
